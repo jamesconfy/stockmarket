@@ -37,5 +37,10 @@ namespace StockMarket.Controllers
             return Ok(stock?.ModelToDTO());
         }
 
+        [HttpPost]
+        public IActionResult Create([FromBody] Stock stock)
+        {
+            return Ok(stock?.ModelToDTO());
+        }
     }
 }
