@@ -181,4 +181,5 @@ C:\Users\ADMIN\Downloads\Contact\My Web Sites\ContactApp\ContactApp\obj\Debug\ne
 C:\Users\ADMIN\Downloads\Contact\My Web Sites\ContactApp\ContactApp\obj\Debug\net8.0\StockMar.D700C2F4.Up2Date
 C:\Users\ADMIN\Downloads\Contact\My Web Sites\ContactApp\ContactApp\obj\Debug\net8.0\StockMarket.genruntimeconfig.cache
 C:\Users\ADMIN\Downloads\Contact\My Web Sites\ContactApp\ContactApp\obj\Debug\net8.0\ref\StockMarket.dll
-C:\Users\ADMIN\Downloads\Contact\My Web Sites\ContactApp\ContactApp\bin\Debug\net8.0\json.json
+C:\Users\ADMIN\Downloads\Contact\My Web Sites\ContactApp\ContactApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\Contact\My Web Sites\ContactApp\ContactApp\obj\Debug\net8.0\StockMarket.sourcelink.json

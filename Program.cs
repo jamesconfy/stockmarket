@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using StockMarket.Internal.Data;
+using StockMarket.Internal.Interface;
+using StockMarket.Internal.Service;
 using System;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
+builder.Services.AddScoped<StockService, StockService>();
 
 var Configuration = builder.Configuration;
 builder.Services.AddDbContext<ApplicationDBContext>(options =>
