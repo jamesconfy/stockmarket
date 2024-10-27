@@ -25,4 +25,4 @@ namespace StockMarket.Internal.Service
             throw new NotImplementedException();
         }
     }
-
+}

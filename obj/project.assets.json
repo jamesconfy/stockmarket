@@ -3621,26 +3621,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "/Users/shamelesss/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\Contact\\My Web Sites\\ContactApp\\ContactApp\\StockMarket.csproj",
+      "projectUniqueName": "/Users/shamelesss/Documents/GitHub/stockmarket/StockMarket.csproj",
       "projectName": "StockMarket",
-      "projectPath": "C:\\Users\\ADMIN\\Downloads\\Contact\\My Web Sites\\ContactApp\\ContactApp\\StockMarket.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Downloads\\Contact\\My Web Sites\\ContactApp\\ContactApp\\obj\\",
+      "projectPath": "/Users/shamelesss/Documents/GitHub/stockmarket/StockMarket.csproj",
+      "packagesPath": "/Users/shamelesss/.nuget/packages/",
+      "outputPath": "/Users/shamelesss/Documents/GitHub/stockmarket/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/shamelesss/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3720,7 +3718,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
